@@ -2,6 +2,8 @@
 
 This project investigates how AT&T leverages Business Intelligence (BI), Artificial Intelligence (AI), and data analytics to drive strategic decision-making, enhance customer experience, and maintain leadership in the telecom industry amidst the Fourth Industrial Revolution (Industry 4.0).
 
+![Dashboard](image.png)
+
 # 🎯 Objective
 
 To evaluate and visualize AT&T’s digital transformation journey using data-driven KPIs, showcasing how the company integrates modern technologies such as:
